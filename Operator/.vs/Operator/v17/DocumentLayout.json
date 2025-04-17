@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F695F-4412-4337-A997-DEF7C2BA6730}|Operator\\Operator.vcxproj|C:\\cworks\\Operator\\Operator\\OperatorEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C90F695F-4412-4337-A997-DEF7C2BA6730}|Operator\\Operator.vcxproj|solutionrelative:Operator\\OperatorEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F695F-4412-4337-A997-DEF7C2BA6730}|Operator\\Operator.vcxproj|C:\\cworks\\Operator\\Operator\\OperatorEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C90F695F-4412-4337-A997-DEF7C2BA6730}|Operator\\Operator.vcxproj|solutionrelative:Operator\\OperatorEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F695F-4412-4337-A997-DEF7C2BA6730}|Operator\\Operator.vcxproj|C:\\cworks\\Operator\\Operator\\Swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C90F695F-4412-4337-A997-DEF7C2BA6730}|Operator\\Operator.vcxproj|solutionrelative:Operator\\Swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Swap.c",
+              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\Swap.c",
+              "RelativeDocumentMoniker": "Operator\\Swap.c",
+              "ToolTip": "C:\\cworks\\Operator\\Operator\\Swap.c",
+              "RelativeToolTip": "Operator\\Swap.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T10:31:39.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperatorEx2.c",
+              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\OperatorEx2.c",
+              "RelativeDocumentMoniker": "Operator\\OperatorEx2.c",
+              "ToolTip": "C:\\cworks\\Operator\\Operator\\OperatorEx2.c",
+              "RelativeToolTip": "Operator\\OperatorEx2.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T12:40:15.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperatorEx1.c",
+              "DocumentMoniker": "C:\\cworks\\Operator\\Operator\\OperatorEx1.c",
+              "RelativeDocumentMoniker": "Operator\\OperatorEx1.c",
+              "ToolTip": "C:\\cworks\\Operator\\Operator\\OperatorEx1.c",
+              "RelativeToolTip": "Operator\\OperatorEx1.c",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T12:15:44.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
