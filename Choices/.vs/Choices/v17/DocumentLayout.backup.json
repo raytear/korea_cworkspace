@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Choices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C2C09-D463-4205-88CD-21D38197A8C3}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\CoffeeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB8C2C09-D463-4205-88CD-21D38197A8C3}|Choices\\Choices.vcxproj|solutionrelative:Choices\\CoffeeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeMachine.c",
+              "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\CoffeeMachine.c",
+              "RelativeDocumentMoniker": "Choices\\CoffeeMachine.c",
+              "ToolTip": "C:\\cworks\\Choices\\Choices\\CoffeeMachine.c",
+              "RelativeToolTip": "Choices\\CoffeeMachine.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T10:18:33.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
