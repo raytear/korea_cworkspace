@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\cworks\\Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E974964D-27F6-4472-A776-1EB6DC6141C3}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayTest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E974964D-27F6-4472-A776-1EB6DC6141C3}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayTest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E974964D-27F6-4472-A776-1EB6DC6141C3}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArraySwap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E974964D-27F6-4472-A776-1EB6DC6141C3}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArraySwap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E974964D-27F6-4472-A776-1EB6DC6141C3}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E974964D-27F6-4472-A776-1EB6DC6141C3}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E974964D-27F6-4472-A776-1EB6DC6141C3}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayCalc2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E974964D-27F6-4472-A776-1EB6DC6141C3}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayCalc2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -43,19 +55,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrayTest.c",
+              "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayTest.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayTest.c",
+              "ToolTip": "C:\\cworks\\Arrays\\Arrays\\ArrayTest.c",
+              "RelativeToolTip": "Arrays\\ArrayTest.c",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T11:32:54.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArraySwap.c",
+              "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArraySwap.c",
+              "RelativeDocumentMoniker": "Arrays\\ArraySwap.c",
+              "ToolTip": "C:\\cworks\\Arrays\\Arrays\\ArraySwap.c",
+              "RelativeToolTip": "Arrays\\ArraySwap.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T11:21:07.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayCopy.c",
+              "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayCopy.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayCopy.c",
+              "ToolTip": "C:\\cworks\\Arrays\\Arrays\\ArrayCopy.c",
+              "RelativeToolTip": "Arrays\\ArrayCopy.c",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T11:00:32.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ArrayCalc2.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayCalc2.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayCalc2.c",
               "ToolTip": "C:\\cworks\\Arrays\\Arrays\\ArrayCalc2.c",
               "RelativeToolTip": "Arrays\\ArrayCalc2.c",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-01T10:22:40.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ArrayCalc.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayCalc.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayCalc.c",
@@ -63,12 +114,11 @@
               "RelativeToolTip": "Arrays\\ArrayCalc.c",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-01T10:08:08.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T10:08:08.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ArrayDel.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayDel.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayDel.c",
@@ -80,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MemberInfo.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\MemberInfo.c",
               "RelativeDocumentMoniker": "Arrays\\MemberInfo.c",
@@ -92,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ArrayString.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayString.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayString.c",
@@ -104,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ArrayChar.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayChar.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayChar.c",
@@ -116,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ArrayInt.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayInt.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayInt.c",
