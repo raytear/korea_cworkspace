@@ -128,6 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CoffeeMachine.c" />
+    <ClCompile Include="IfElseIf.c" />
+    <ClCompile Include="IfEx.c" />
+    <ClCompile Include="IfEx2.c" />
+    <ClCompile Include="LeapYear.c" />
+    <ClCompile Include="Seat.c" />
+    <ClCompile Include="SwitchEx1.c" />
+    <ClCompile Include="SwitchEx2.c" />
+    <ClCompile Include="WhileBreak.c" />
+    <ClCompile Include="WhileEx1.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

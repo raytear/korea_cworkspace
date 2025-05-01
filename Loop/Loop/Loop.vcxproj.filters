@@ -27,5 +27,23 @@
     <ClCompile Include="Gugudan2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ContinueEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoWhileEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoWhileEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ForEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Gugudan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SumOver100.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

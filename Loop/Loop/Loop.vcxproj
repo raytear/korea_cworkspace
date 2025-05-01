@@ -127,10 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ContinueEx.c" />
+    <ClCompile Include="DoWhileEx1.c" />
+    <ClCompile Include="DoWhileEx2.c" />
+    <ClCompile Include="ForEx1.c" />
+    <ClCompile Include="Gugudan.c" />
     <ClCompile Include="Gugudan2.c" />
     <ClCompile Include="InputError.c" />
     <ClCompile Include="NestedFor.c" />
     <ClCompile Include="Seats.c" />
+    <ClCompile Include="SumOver100.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

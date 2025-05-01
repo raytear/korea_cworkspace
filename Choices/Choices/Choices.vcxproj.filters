@@ -18,5 +18,32 @@
     <ClCompile Include="CoffeeMachine.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="IfElseIf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IfEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IfEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LeapYear.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Seat.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SwitchEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SwitchEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WhileBreak.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WhileEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
