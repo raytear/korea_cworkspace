@@ -24,5 +24,26 @@
     <ClCompile Include="FindMax.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="GlobalVar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticVar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MathEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DateTimeEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RandEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

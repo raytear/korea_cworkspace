@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+int findMax(int arr[], int len); //함수 선언부 명시
 int main()
 {
 	int a[] = { 21, 35, 71, 2, 97, 66 };
