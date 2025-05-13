@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+#include <stdlib.h> //srand(), rand()
+#include <time.h>	//time()
 
 int main()
 {
@@ -14,6 +14,7 @@ int main()
 	*/
 
 	//동전(2가지 경우)
+	
 	int coin = rand() % 2;
 	printf("%d\n", coin);
 
@@ -26,6 +27,38 @@ int main()
 	{
 		printf("뒷면\n");
 	}
+	
+	//가위, 바위, 보 출력
+	int num = rand() % 3;
+	printf("%d\n", num);
+
+	switch (num)
+	{
+	case 0:
+		printf("가위\n");
+		break;
+	case 1:
+		printf("바위\n");
+		break;
+	case 2:
+		printf("보\n");
+		break;
+	default:
+		printf("없음\n");
+		break;
+	}
+
+	//주사위의 눈(1 ~ 6)
+	int dice = rand() % 6 + 1;
+	printf("%d\n", dice);
+
+	//주사위 10번 던지기
+	for (int i = 1; i <= 10; i++)
+	{
+		dice = rand() % 6 + 1;
+		printf("%d\n", dice);
+	}
+	
 
 	return 0;
 }
