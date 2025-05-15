@@ -5,8 +5,9 @@
 
 int main()
 {
+	//배열을 선언과 동시에 초기화(저장)
 	int a[4] = { 10, 20, 30, 40 };
-	int* pa;
+	int* pa;	//포인터(변수)
 	int i;
 
 	//배열의 이름은 배열의 시작주소이다.
@@ -17,7 +18,7 @@ int main()
 	printf("%d %x %x\n", a[3], &a[3], a + 3);
 	*/
 
-	for (i = 0; i < 4; i++);
+	for (i = 0; i < 4; i++)
 	{
 		printf("%d %x %x\n", a[i], &a[i], a + i);
 	}
