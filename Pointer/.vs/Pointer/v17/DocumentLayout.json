@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\cworks\\Pointer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{97042C44-3893-4BBA-8A53-86DE0DC91104}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\Swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97042C44-3893-4BBA-8A53-86DE0DC91104}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\Swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97042C44-3893-4BBA-8A53-86DE0DC91104}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\CalcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97042C44-3893-4BBA-8A53-86DE0DC91104}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\CalcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97042C44-3893-4BBA-8A53-86DE0DC91104}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\PointerCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{97042C44-3893-4BBA-8A53-86DE0DC91104}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\PointerCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -54,11 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Swap.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\Swap.c",
+              "RelativeDocumentMoniker": "Pointer\\Swap.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\Swap.c",
+              "RelativeToolTip": "Pointer\\Swap.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T10:32:32.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CalcSum.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\CalcSum.c",
+              "RelativeDocumentMoniker": "Pointer\\CalcSum.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\CalcSum.c",
+              "RelativeToolTip": "Pointer\\CalcSum.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T10:17:28.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TypingGame.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\TypingGame.c",
               "RelativeDocumentMoniker": "Pointer\\TypingGame.c",
@@ -66,12 +100,11 @@
               "RelativeToolTip": "Pointer\\TypingGame.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T12:17:51.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T12:17:51.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PointerString2.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\PointerString2.c",
               "RelativeDocumentMoniker": "Pointer\\PointerString2.c",
@@ -79,12 +112,11 @@
               "RelativeToolTip": "Pointer\\PointerString2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T12:06:01.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T12:06:01.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PointerTest.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\PointerTest.c",
               "RelativeDocumentMoniker": "Pointer\\PointerTest.c",
@@ -92,12 +124,11 @@
               "RelativeToolTip": "Pointer\\PointerTest.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T11:48:58.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:48:58.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "CallByRef2.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\CallByRef2.c",
               "RelativeDocumentMoniker": "Pointer\\CallByRef2.c",
@@ -105,12 +136,11 @@
               "RelativeToolTip": "Pointer\\CallByRef2.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T11:31:39.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:31:39.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CallByRef.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\CallByRef.c",
               "RelativeDocumentMoniker": "Pointer\\CallByRef.c",
@@ -118,12 +148,11 @@
               "RelativeToolTip": "Pointer\\CallByRef.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T11:16:55.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:16:55.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ChangeArray.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\ChangeArray.c",
               "RelativeDocumentMoniker": "Pointer\\ChangeArray.c",
@@ -131,12 +160,11 @@
               "RelativeToolTip": "Pointer\\ChangeArray.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T11:06:44.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:06:44.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "PointerString.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\PointerString.c",
               "RelativeDocumentMoniker": "Pointer\\PointerString.c",
@@ -144,25 +172,24 @@
               "RelativeToolTip": "Pointer\\PointerString.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T10:37:35.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:37:35.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PointerCalc.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\PointerCalc.c",
               "RelativeDocumentMoniker": "Pointer\\PointerCalc.c",
               "ToolTip": "C:\\cworks\\Pointer\\Pointer\\PointerCalc.c",
               "RelativeToolTip": "Pointer\\PointerCalc.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-15T10:19:08.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PointerArray.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\PointerArray.c",
               "RelativeDocumentMoniker": "Pointer\\PointerArray.c",
@@ -170,12 +197,11 @@
               "RelativeToolTip": "Pointer\\PointerArray.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-13T12:36:12.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T12:36:12.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PointerChar.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\PointerChar.c",
               "RelativeDocumentMoniker": "Pointer\\PointerChar.c",
@@ -183,12 +209,11 @@
               "RelativeToolTip": "Pointer\\PointerChar.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-13T12:26:32.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T12:26:32.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PointerInt.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\PointerInt.c",
               "RelativeDocumentMoniker": "Pointer\\PointerInt.c",
@@ -196,8 +221,7 @@
               "RelativeToolTip": "Pointer\\PointerInt.c",
               "ViewState": "AgIAAA8AAAAAAAAAAAAcwBAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-13T12:11:19.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T12:11:19.219Z"
             }
           ]
         }
