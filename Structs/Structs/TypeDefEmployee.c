@@ -28,7 +28,9 @@ int main()
 	for (i = 0; i < 3; i++) {
 		printf("사원 ID: %d, 이름: %s, 급여: %d\n",
 			e[i].id, e[i].name, e[i].salary);
-	};
+	}
+
+
 
 	return 0;
 }

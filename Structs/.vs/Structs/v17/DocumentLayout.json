@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\cworks\\Structs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\StructDateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\StructDateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\StructFruit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\StructFruit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\CalcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\CalcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\StructHero.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\StructHero.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\TypeDefEmployee.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\TypeDefEmployee.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\StructPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\StructPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\StructRef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\StructRef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\StructPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\StructPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +43,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StructDateTime.c",
+              "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructDateTime.c",
+              "RelativeDocumentMoniker": "Structs\\StructDateTime.c",
+              "ToolTip": "C:\\cworks\\Structs\\Structs\\StructDateTime.c",
+              "RelativeToolTip": "Structs\\StructDateTime.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T12:38:26.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StructFruit.c",
+              "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructFruit.c",
+              "RelativeDocumentMoniker": "Structs\\StructFruit.c",
+              "ToolTip": "C:\\cworks\\Structs\\Structs\\StructFruit.c",
+              "RelativeToolTip": "Structs\\StructFruit.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T12:24:49.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcScore.c",
+              "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\CalcScore.c",
+              "RelativeDocumentMoniker": "Structs\\CalcScore.c",
+              "ToolTip": "C:\\cworks\\Structs\\Structs\\CalcScore.c",
+              "RelativeToolTip": "Structs\\CalcScore.c",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T11:48:18.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StructHero.c",
+              "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructHero.c",
+              "RelativeDocumentMoniker": "Structs\\StructHero.c",
+              "ToolTip": "C:\\cworks\\Structs\\Structs\\StructHero.c",
+              "RelativeToolTip": "Structs\\StructHero.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T11:39:53.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TypeDefEmployee.c",
               "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\TypeDefEmployee.c",
               "RelativeDocumentMoniker": "Structs\\TypeDefEmployee.c",
               "ToolTip": "C:\\cworks\\Structs\\Structs\\TypeDefEmployee.c",
               "RelativeToolTip": "Structs\\TypeDefEmployee.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-20T12:36:22.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "StructRef.c",
               "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructRef.c",
               "RelativeDocumentMoniker": "Structs\\StructRef.c",
@@ -52,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "StructPerson.c",
               "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructPerson.c",
               "RelativeDocumentMoniker": "Structs\\StructPerson.c",
               "ToolTip": "C:\\cworks\\Structs\\Structs\\StructPerson.c",
               "RelativeToolTip": "Structs\\StructPerson.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-20T11:45:19.908Z",
               "EditorCaption": ""

@@ -24,5 +24,17 @@
     <ClCompile Include="TypeDefEmployee.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StructHero.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CalcScore.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructFruit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructDateTime.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
