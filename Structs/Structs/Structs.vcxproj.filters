@@ -36,5 +36,11 @@
     <ClCompile Include="StructDateTime.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StructMalloc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructMalloc2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

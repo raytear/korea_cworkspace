@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\cworks\\Structs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\StructMalloc2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\StructMalloc2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\StructMalloc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\StructMalloc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\StructHero.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9BC2B947-1C92-4614-8EE9-C554D8C4499E}|Structs\\Structs.vcxproj|solutionrelative:Structs\\StructHero.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -38,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "StructMalloc2.c",
+              "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructMalloc2.c",
+              "RelativeDocumentMoniker": "Structs\\StructMalloc2.c",
+              "ToolTip": "C:\\cworks\\Structs\\Structs\\StructMalloc2.c",
+              "RelativeToolTip": "Structs\\StructMalloc2.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T11:48:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StructMalloc.c",
+              "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructMalloc.c",
+              "RelativeDocumentMoniker": "Structs\\StructMalloc.c",
+              "ToolTip": "C:\\cworks\\Structs\\Structs\\StructMalloc.c",
+              "RelativeToolTip": "Structs\\StructMalloc.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T11:23:16.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StructDateTime.c",
               "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructDateTime.c",
               "RelativeDocumentMoniker": "Structs\\StructDateTime.c",
@@ -54,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StructFruit.c",
               "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructFruit.c",
               "RelativeDocumentMoniker": "Structs\\StructFruit.c",
@@ -66,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CalcScore.c",
               "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\CalcScore.c",
               "RelativeDocumentMoniker": "Structs\\CalcScore.c",
@@ -78,20 +112,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StructHero.c",
               "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructHero.c",
               "RelativeDocumentMoniker": "Structs\\StructHero.c",
-              "ToolTip": "C:\\cworks\\Structs\\Structs\\StructHero.c*",
-              "RelativeToolTip": "Structs\\StructHero.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\cworks\\Structs\\Structs\\StructHero.c",
+              "RelativeToolTip": "Structs\\StructHero.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-22T11:39:53.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TypeDefEmployee.c",
               "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\TypeDefEmployee.c",
               "RelativeDocumentMoniker": "Structs\\TypeDefEmployee.c",
@@ -99,12 +133,11 @@
               "RelativeToolTip": "Structs\\TypeDefEmployee.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-20T12:36:22.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T12:36:22.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StructRef.c",
               "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructRef.c",
               "RelativeDocumentMoniker": "Structs\\StructRef.c",
@@ -116,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "StructPerson.c",
               "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\StructPerson.c",
               "RelativeDocumentMoniker": "Structs\\StructPerson.c",

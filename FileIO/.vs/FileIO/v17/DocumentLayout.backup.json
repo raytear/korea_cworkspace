@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\FileIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\AsciiFile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\AsciiFile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\FileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\FileWrite1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileWrite1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\inputBuffer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\inputBuffer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsciiFile.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\AsciiFile.c",
+              "RelativeDocumentMoniker": "FileIO\\AsciiFile.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\AsciiFile.c*",
+              "RelativeToolTip": "FileIO\\AsciiFile.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T12:41:28.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileRead1.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\FileRead1.c",
+              "RelativeDocumentMoniker": "FileIO\\FileRead1.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\FileRead1.c",
+              "RelativeToolTip": "FileIO\\FileRead1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T12:29:16.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileWrite1.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\FileWrite1.c",
+              "RelativeDocumentMoniker": "FileIO\\FileWrite1.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\FileWrite1.c",
+              "RelativeToolTip": "FileIO\\FileWrite1.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T12:16:26.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inputBuffer.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\inputBuffer.c",
+              "RelativeDocumentMoniker": "FileIO\\inputBuffer.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\inputBuffer.c",
+              "RelativeToolTip": "FileIO\\inputBuffer.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T12:06:17.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
