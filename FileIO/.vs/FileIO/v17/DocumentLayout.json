@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\cworks\\FileIO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\AsciiFile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\AsciiFile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\ImageCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\ImageCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\FileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\FileAppend.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileAppend.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\FileWrite1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileWrite1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\binFwrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\binFwrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\TextFileCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\TextFileCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\FileGugudan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileGugudan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\FileString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\FileString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\AsciiRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\AsciiRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75C78893-AFB0-4390-8EAF-BAAE54F5B03E}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\inputBuffer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,33 +45,99 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 239,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AsciiFile.c",
-              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\AsciiFile.c",
-              "RelativeDocumentMoniker": "FileIO\\AsciiFile.c",
-              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\AsciiFile.c",
-              "RelativeToolTip": "FileIO\\AsciiFile.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Title": "ImageCopy.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\ImageCopy.c",
+              "RelativeDocumentMoniker": "FileIO\\ImageCopy.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\ImageCopy.c",
+              "RelativeToolTip": "FileIO\\ImageCopy.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-29T12:41:28.075Z",
+              "WhenOpened": "2025-06-03T11:47:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "binFwrite.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\binFwrite.c",
+              "RelativeDocumentMoniker": "FileIO\\binFwrite.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\binFwrite.c",
+              "RelativeToolTip": "FileIO\\binFwrite.c",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T11:31:20.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextFileCopy.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\TextFileCopy.c",
+              "RelativeDocumentMoniker": "FileIO\\TextFileCopy.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\TextFileCopy.c",
+              "RelativeToolTip": "FileIO\\TextFileCopy.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T11:22:33.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileGugudan.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\FileGugudan.c",
+              "RelativeDocumentMoniker": "FileIO\\FileGugudan.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\FileGugudan.c",
+              "RelativeToolTip": "FileIO\\FileGugudan.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T11:05:45.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileString.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\FileString.c",
+              "RelativeDocumentMoniker": "FileIO\\FileString.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\FileString.c",
+              "RelativeToolTip": "FileIO\\FileString.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T10:37:56.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FileRead1.c",
-              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\FileRead1.c",
-              "RelativeDocumentMoniker": "FileIO\\FileRead1.c",
-              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\FileRead1.c",
-              "RelativeToolTip": "FileIO\\FileRead1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "FileAppend.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\FileAppend.c",
+              "RelativeDocumentMoniker": "FileIO\\FileAppend.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\FileAppend.c",
+              "RelativeToolTip": "FileIO\\FileAppend.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-29T12:29:16.252Z"
+              "WhenOpened": "2025-06-03T10:28:00.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsciiRead.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\AsciiRead.c",
+              "RelativeDocumentMoniker": "FileIO\\AsciiRead.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\AsciiRead.c",
+              "RelativeToolTip": "FileIO\\AsciiRead.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T10:10:54.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,13 +147,14 @@
               "RelativeDocumentMoniker": "FileIO\\FileWrite1.c",
               "ToolTip": "C:\\cworks\\FileIO\\FileIO\\FileWrite1.c",
               "RelativeToolTip": "FileIO\\FileWrite1.c",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-29T12:16:26.102Z"
+              "WhenOpened": "2025-05-29T12:16:26.102Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "inputBuffer.c",
               "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\inputBuffer.c",
               "RelativeDocumentMoniker": "FileIO\\inputBuffer.c",

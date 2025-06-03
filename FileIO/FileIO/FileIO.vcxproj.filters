@@ -27,5 +27,26 @@
     <ClCompile Include="AsciiFile.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="AsciiRead.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileAppend.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileString.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileGugudan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TextFileCopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="binFwrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageCopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

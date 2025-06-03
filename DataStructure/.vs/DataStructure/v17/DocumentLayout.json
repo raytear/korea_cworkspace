@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\StructStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\StructStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\QueueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\QueueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\StackEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\StackEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StructStudent.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\StructStudent.c",
+              "RelativeDocumentMoniker": "DataStructure\\StructStudent.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\StructStudent.c",
+              "RelativeToolTip": "DataStructure\\StructStudent.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T12:47:06.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\QueueEx.c",
+              "RelativeDocumentMoniker": "DataStructure\\QueueEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\QueueEx.c",
+              "RelativeToolTip": "DataStructure\\QueueEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T12:27:39.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\StackEx.c",
+              "RelativeDocumentMoniker": "DataStructure\\StackEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\StackEx.c",
+              "RelativeToolTip": "DataStructure\\StackEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T12:12:08.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
