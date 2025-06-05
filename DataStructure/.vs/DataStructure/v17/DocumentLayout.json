@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\cworks\\DataStructure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\linkedList1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\linkedList1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\StructStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\StructStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\seqSearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\seqSearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\sortBubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\sortBubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\sortEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\sortEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\printBin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\printBin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\recursiveEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\recursiveEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\ToggleEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\ToggleEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9829E60B-7CD0-45C4-B1C8-42EBF4A1B0D7}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\QueueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,19 +59,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "linkedList1.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\linkedList1.c",
+              "RelativeDocumentMoniker": "DataStructure\\linkedList1.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\linkedList1.c",
+              "RelativeToolTip": "DataStructure\\linkedList1.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T12:36:47.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "seqSearch.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\seqSearch.c",
+              "RelativeDocumentMoniker": "DataStructure\\seqSearch.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\seqSearch.c",
+              "RelativeToolTip": "DataStructure\\seqSearch.c",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T12:03:41.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sortBubble.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\sortBubble.c",
+              "RelativeDocumentMoniker": "DataStructure\\sortBubble.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\sortBubble.c",
+              "RelativeToolTip": "DataStructure\\sortBubble.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T11:30:23.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sortEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\sortEx.c",
+              "RelativeDocumentMoniker": "DataStructure\\sortEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\sortEx.c",
+              "RelativeToolTip": "DataStructure\\sortEx.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T11:16:25.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "printBin.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\printBin.c",
+              "RelativeDocumentMoniker": "DataStructure\\printBin.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\printBin.c",
+              "RelativeToolTip": "DataStructure\\printBin.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T11:09:27.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "factorial.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\factorial.c",
+              "RelativeDocumentMoniker": "DataStructure\\factorial.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\factorial.c",
+              "RelativeToolTip": "DataStructure\\factorial.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T10:33:46.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "recursiveEx1.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\recursiveEx1.c",
+              "RelativeDocumentMoniker": "DataStructure\\recursiveEx1.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\recursiveEx1.c",
+              "RelativeToolTip": "DataStructure\\recursiveEx1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T10:24:37.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToggleEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\ToggleEx.c",
+              "RelativeDocumentMoniker": "DataStructure\\ToggleEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\ToggleEx.c",
+              "RelativeToolTip": "DataStructure\\ToggleEx.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T10:10:51.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StructStudent.c",
               "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\StructStudent.c",
               "RelativeDocumentMoniker": "DataStructure\\StructStudent.c",
               "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\StructStudent.c",
               "RelativeToolTip": "DataStructure\\StructStudent.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-03T12:47:06.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "QueueEx.c",
               "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\QueueEx.c",
               "RelativeDocumentMoniker": "DataStructure\\QueueEx.c",
@@ -47,12 +183,11 @@
               "RelativeToolTip": "DataStructure\\QueueEx.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-03T12:27:39.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T12:27:39.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "StackEx.c",
               "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\StackEx.c",
               "RelativeDocumentMoniker": "DataStructure\\StackEx.c",
@@ -60,8 +195,7 @@
               "RelativeToolTip": "DataStructure\\StackEx.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-03T12:12:08.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T12:12:08.751Z"
             }
           ]
         }

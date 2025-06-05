@@ -1,2 +1,10 @@
-﻿  StructStudent.c
+﻿  linkedList1.c
+C:\cworks\DataStructure\DataStructure\linkedList1.c(22,9): warning C4133: '=': 'List *'과(와) 'List *' 사이의 형식이 호환되지 않습니다.
+C:\cworks\DataStructure\DataStructure\linkedList1.c(23,9): warning C4133: '=': 'List *'과(와) 'List *' 사이의 형식이 호환되지 않습니다.
+C:\cworks\DataStructure\DataStructure\linkedList1.c(30,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'List *'입니다.
+C:\cworks\DataStructure\DataStructure\linkedList1.c(30,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) List *' 형식의 인수 2과(와) 충돌합니다.
+C:\cworks\DataStructure\DataStructure\linkedList1.c(32,4): warning C4133: '=': 'List *'과(와) 'List *' 사이의 형식이 호환되지 않습니다.
+C:\cworks\DataStructure\DataStructure\linkedList1.c(33,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'List *'입니다.
+C:\cworks\DataStructure\DataStructure\linkedList1.c(33,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) List *' 형식의 인수 2과(와) 충돌합니다.
+C:\cworks\DataStructure\DataStructure\linkedList1.c(42,28): warning C4133: '=': 'List *'과(와) 'List *' 사이의 형식이 호환되지 않습니다.
   DataStructure.vcxproj -> C:\cworks\DataStructure\x64\Debug\DataStructure.exe
